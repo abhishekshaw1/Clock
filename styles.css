@@ -1,6 +1,6 @@
 body{
     background: url(./images/background.jpg) no-repeat;
-    background-size: cover;
+    background-size: 100% 100vh;
 }
 body img {
     width : 100% ;
